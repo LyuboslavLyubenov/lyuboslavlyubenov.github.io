@@ -6,10 +6,12 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Lyuboslav Lyubenov's blog
+title: >
+  Lyuboslav Lyubenov's blog
 
 # Short bio or description (displayed in the header)
-description: "Discovering the Unusual: Navigating Complex Challenges, Exploring Unique Topics, and Crafting Interesting Projects. Join Me on a Journey of Learning and Fun!" (totally not written by chatgpt)
+description: >
+  "Discovering the Unusual: Navigating Complex Challenges, Exploring Unique Topics, and Crafting Interesting Projects. Join Me on a Journey of Learning and Fun!" (totally not written by chatgpt)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/14333463?v=4
