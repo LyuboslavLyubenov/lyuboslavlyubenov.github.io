@@ -3,6 +3,11 @@ layout: post
 title: The sneaky stackoverflow exception
 categories: [dotnet, stackoverflow, dependencymanager]
 ---
+
+Hey everyone, I want to share you a story about a interesting bug that i tackled recently at work, how i approached it and what i learned alog the way
+
+Lets set the scene:
+
 It was a productive day as my colleague and I were finalizing work on a feature. However, after a series of commits, we discovered that a particular commit had triggered the failure of a substantial portion of our REST tests. The situation left us baffled.
 
 Not only were the tests for the modified services failing, but also some unrelated ones were affected. Determined to identify the root cause, we systematically went through the following steps:
