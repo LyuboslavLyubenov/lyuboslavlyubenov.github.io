@@ -1,6 +1,7 @@
 ---
 layout: post
-title: > I do love me some "TypeError: NetworkError" errors 
+title: >-
+  I do love me some "TypeError: NetworkError" errors 
 categories: [reactnative, react, ssl]
 ---
 
