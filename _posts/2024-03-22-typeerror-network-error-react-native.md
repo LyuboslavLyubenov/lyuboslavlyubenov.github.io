@@ -1,9 +1,8 @@
 ---
 layout: post
-title: >- I do love me some "TypeError: NetworkError" errors 
+title: > I do love me some "TypeError: NetworkError" errors 
 categories: [reactnative, react, ssl]
 ---
-
 
 Hey everyone, I've got a story to share about a "quirky" bug I encountered while working on a new feature, how I tackled it, and the lessons I learned along the way.
 
