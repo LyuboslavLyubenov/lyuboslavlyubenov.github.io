@@ -47,13 +47,13 @@ The suggestions seemed logical, so I started checking them off one by one:
 
 This issue was mocking me. I could feel it. It wanted me to give up. But it doesn't know who it's dealing with!
 
-![scary cat rawrrr]([6ac30a77afe03112ff5518ec8000341e.jpg](https://github.com/LyuboslavLyubenov/lyuboslavlyubenov.github.io/blob/main/_posts/6ac30a77afe03112ff5518ec8000341e.jpg?raw=true))
+![scary cat rawrrr]([6ac30a77afe03112ff5518ec8000341e.jpg](https://github.com/LyuboslavLyubenov/lyuboslavlyubenov.github.io/blob/main/_posts/6ac30a77afe03112ff5518ec8000341e.jpg?raw=true)
 
 Since I was out of ideas, and ChatGPT seemed to be of no use, I resorted to my trusty Google skills.
 
 After a couple of hours of searching, I stumbled upon this gem: https://github.com/facebook/react-native/issues/6827
 
-![github issue comment explaining the ssl sertificate issue]([6ac30a77afe03112ff5518ec8000341e.jpg](https://github.com/LyuboslavLyubenov/lyuboslavlyubenov.github.io/blob/main/_posts/image.png?raw=true))
+![github issue comment explaining the ssl sertificate issue]([6ac30a77afe03112ff5518ec8000341e.jpg](https://github.com/LyuboslavLyubenov/lyuboslavlyubenov.github.io/blob/main/_posts/image.png?raw=true)
 
 So, I decided to be a bit goofy and loaded the page on my Android phone. Lo and behold, Chrome reported the website as insecure. Upon investigation, it turned out that the intermediate certificate provided by Let's Encrypt was invalid.
 
